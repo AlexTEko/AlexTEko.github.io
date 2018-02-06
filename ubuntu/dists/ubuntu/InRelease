@@ -4,30 +4,30 @@ Hash: SHA256
 Origin: alexteko.github.io/ubuntu
 Label: alexteko.github.io/ubuntu
 Codename: ubuntu
-Date: Tue, 06 Feb 2018 09:11:29 UTC
+Date: Tue, 06 Feb 2018 09:15:11 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- b8f181f90c9858d83b59a5a8079276b5 1714 main/binary-amd64/Packages
- ec7c0e8ac98dbb0078ed7482d14f8418 740 main/binary-amd64/Packages.gz
+ 22f72b08d5567455b91735c6ac860427 1714 main/binary-amd64/Packages
+ 3c6f6ca2502e8b1cd8fb5576137a95f2 740 main/binary-amd64/Packages.gz
  99a6ccc99c1ce3fe8b806f1b7e135a8b 136 main/binary-amd64/Release
 SHA1:
- 2239e5330d661b58d2b5eb461166643f83b4a9ef 1714 main/binary-amd64/Packages
- e1c1c43e8820456081ce0dce6621d283a0da481d 740 main/binary-amd64/Packages.gz
+ a9ba6c3da721845b7502e5c19b828f2f12a21036 1714 main/binary-amd64/Packages
+ 08646da0acbbdc729e1f37171657bd914032f89d 740 main/binary-amd64/Packages.gz
  e16c31b2c989d81520ab4631898e9403f9b38984 136 main/binary-amd64/Release
 SHA256:
- 62aca8877648779ac7079ce4b6ded18098aa788c6785529571c0f27884ab0566 1714 main/binary-amd64/Packages
- 2beeaf4b2bcb234d85c422705c588b0527ed676b9789baf87207398ad7fac5e9 740 main/binary-amd64/Packages.gz
+ eb271dd7924251cde6b63e866ce8dcb7aff1e0a13050cf7f8eb91430d958bf5d 1714 main/binary-amd64/Packages
+ 8273aa951b4b419b8a0a4dbed553158a6e6a1a528fae0fc3fd0e897a8f3b8076 740 main/binary-amd64/Packages.gz
  a7936cbcdd07761059c419229929a4b0577de8f574cfb57a7484f65fef0e6f81 136 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJaeXFBAAoJEOdyHlYnOqnG+0UIAJAzfsOLdltpxZC70NgeSZ2X
-6k4ITZlNRHI0+oHhwed04Q7JM9uHrOQrPTyv5bcXaVc9/2AJbyeg1qxvOoohCnyR
-t13N+8G2RQmQQPQwC269VrfxuD2d8BM/37Rc0qn7eDOi5+NOpkFERRhkxOcBYVvu
-TdX9k0dFNCNQWRvKBHPrqjhpl3zjUnu0KGw4mcG5VaaztRv7pjY1jZIgm+tmGNGK
-cn43QGwDKrA2m4PGmnoST8aC3RFD84GCMbjiTeIeGJhhVOXF7Ol7yOS6n0NpmoTZ
-XZhszcjvG7MMkAMm7ME6ERCaAdiWdSgKWgqIbfrKKXfzhS4k0OAAvf0ylSUZ2Ak=
-=LXgq
+iQEcBAEBCAAGBQJaeXIfAAoJEOdyHlYnOqnG2a0IAK1nttOL+JqYTwvecR/9zEec
+WbDKuyUmKIAwvYrzYyx95LOGu86yPdoWY47UhQHkzq+v9RyLL7In7yTwIpO/LIy2
+Bj+aGG1F7OrI1Kb9qqttix1xbtfRTNqkAJ2n+r+amrQhsWOiyFaAfOyW/ZpMtg9r
+OF4M1Xy7IrekWlcz57Z9Rivl4DdhjSATQN/wI7Z+W5vxBqcslKMiiH4ZdHdrKWgx
+a1hec8z3QkL7UqCCldUljio99Inqa5f0pKSgR7lpcPH075jXl1HAbqQhadkl+GLc
+998Hg+QTc44JXm//sEBOnPN4UnrwX/Wx6IAZkhK0fGchlOzJqd4rjys5eK1MN9s=
+=3eOj
 -----END PGP SIGNATURE-----
