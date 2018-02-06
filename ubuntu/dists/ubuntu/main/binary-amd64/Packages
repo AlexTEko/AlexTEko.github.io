@@ -1,0 +1,18 @@
+Package: monitor-home
+Version: 0.1-48808203
+License: unknown
+Vendor: gitlab-runner@gitlab-runner
+Architecture: amd64
+Maintainer: Alexander Teseyko <alexteko@gmail.com>
+Installed-Size: 5289
+Depends: supervisor
+Homepage: http://example.com/no-uri-given
+Priority: extra
+Section: default
+Filename: pool/main/m/monitor-home/monitor-home_0.1-48808203_amd64.deb
+Size: 1586574
+SHA256: 3374a6a4d892feb9a3d14284d78afaafbebf63420998c4b60450922e39992250
+SHA1: b2b8a935db7abe465e0e8ad137ebd36db19d7666
+MD5sum: 4cd4af20894c877c84abbeaa4114ca1e
+Description: Service monitor
+
