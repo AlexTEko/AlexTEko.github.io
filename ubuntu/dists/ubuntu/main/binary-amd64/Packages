@@ -17,7 +17,7 @@ MD5sum: 38da191d9e85f8174f984f2036e74f82
 Description: REST API for MiniDLNA Server
 
 Package: monitor-home
-Version: 0.1-48808203
+Version: 0.1-51232735
 License: unknown
 Vendor: gitlab-runner@gitlab-runner
 Architecture: amd64
@@ -27,11 +27,11 @@ Depends: supervisor
 Homepage: http://example.com/no-uri-given
 Priority: extra
 Section: default
-Filename: pool/main/m/monitor-home/monitor-home_0.1-48808203_amd64.deb
-Size: 1586574
-SHA256: 3374a6a4d892feb9a3d14284d78afaafbebf63420998c4b60450922e39992250
-SHA1: b2b8a935db7abe465e0e8ad137ebd36db19d7666
-MD5sum: 4cd4af20894c877c84abbeaa4114ca1e
+Filename: pool/main/m/monitor-home/monitor-home_0.1-51232735_amd64.deb
+Size: 1584404
+SHA256: 300a031eaf52e971474e3b0ab107987effd48ee2862f3cd53e291cf47f82b6ff
+SHA1: 848bd773e406e5feaf46aac52d351864656a3858
+MD5sum: e2250f12371512e983ab3309b88388ae
 Description: Service monitor
 
 Package: pmx-console
