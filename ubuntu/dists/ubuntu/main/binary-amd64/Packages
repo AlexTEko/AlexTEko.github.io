@@ -1,19 +1,19 @@
 Package: minidlna-api
-Version: 0.1-49866836
+Version: 0.1-51254440
 License: unknown
 Vendor: gitlab-runner@gitlab-runner
 Architecture: amd64
 Maintainer: Alexander Teseyko <alexteko@gmail.com>
-Installed-Size: 16021
+Installed-Size: 16022
 Depends: minidlna, supervisor
 Homepage: http://example.com/no-uri-given
 Priority: extra
 Section: default
-Filename: pool/main/m/minidlna-api/minidlna-api_0.1-49866836_amd64.deb
-Size: 5840148
-SHA256: 80a10fc11c2ecec19fab345da077f519582a4ab0ccb9cf7dc3a82ddf282c3b1f
-SHA1: ea82d39dfd4b0b8cddcb1355aa18624f60699d66
-MD5sum: 38da191d9e85f8174f984f2036e74f82
+Filename: pool/main/m/minidlna-api/minidlna-api_0.1-51254440_amd64.deb
+Size: 5843620
+SHA256: 735a5d4ee723a5a4cbabf3a8b39f0f7016f43b13165342c6f868f028dd928edf
+SHA1: 53fa0d62ca34edb40b56c546cb3adabeea7d3177
+MD5sum: 8aa19ace24d60cb010be4eb5c826b19e
 Description: REST API for MiniDLNA Server
 
 Package: monitor-home
