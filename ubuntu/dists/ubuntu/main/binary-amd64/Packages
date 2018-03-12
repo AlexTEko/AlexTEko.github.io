@@ -35,20 +35,20 @@ MD5sum: e2250f12371512e983ab3309b88388ae
 Description: Service monitor
 
 Package: pmx-console
-Version: 0.1-51233175
+Version: 0.1-56873716
 License: unknown
 Vendor: gitlab-runner@gitlab-runner
 Architecture: amd64
 Maintainer: Alexander Teseyko <alexteko@gmail.com>
-Installed-Size: 16800
+Installed-Size: 6280
 Depends: python3.5
 Homepage: http://example.com/no-uri-given
 Priority: extra
 Section: default
-Filename: pool/main/p/pmx-console/pmx-console_0.1-51233175_amd64.deb
-Size: 6363646
-SHA256: 8ca8cc6be39ad42e34c400894e6eb2e90b41659dd03d56e74b2e48939ffa2656
-SHA1: 5ff69b1943b205b1463e1b1b47c57fb7ba32f87b
-MD5sum: e43f413ae0a0451d647d1e871f2f9689
+Filename: pool/main/p/pmx-console/pmx-console_0.1-56873716_amd64.deb
+Size: 2840886
+SHA256: 4f9014d7d85355e4a212c6b127952a30f2e114b1de93315f8c83135fd98d0cb4
+SHA1: 58a9942f6cbd08ec7c413074880575230018d0ee
+MD5sum: e167b7ab1ece6dece8d223607c20f82f
 Description: Console client for ProxmoxVE
 

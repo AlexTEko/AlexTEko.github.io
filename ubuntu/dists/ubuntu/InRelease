@@ -4,30 +4,30 @@ Hash: SHA256
 Origin: alexteko.github.io/ubuntu
 Label: alexteko.github.io/ubuntu
 Codename: ubuntu
-Date: Tue, 06 Feb 2018 10:44:00 UTC
+Date: Mon, 12 Mar 2018 08:52:18 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- ab88d836b2fc04be83b9a19388dbd6ec 1714 main/binary-amd64/Packages
- 75a2d7bf54e797bc117b32079ddc77da 740 main/binary-amd64/Packages.gz
+ d258c5fbc1264127c991e2ea79f67a0d 1713 main/binary-amd64/Packages
+ b21fe4d61f3d16defac9f2a043b0926e 736 main/binary-amd64/Packages.gz
  99a6ccc99c1ce3fe8b806f1b7e135a8b 136 main/binary-amd64/Release
 SHA1:
- d548adcda560c174a0e8ed39788618a800899fb4 1714 main/binary-amd64/Packages
- fdc0670a09e4c871528a66ea8ed4d08e9c8ccf3a 740 main/binary-amd64/Packages.gz
+ ea1d73496ef5c07313cca58f08b69609aeb16c95 1713 main/binary-amd64/Packages
+ 4a448f94c22f8dc0dc8d4ff6068c81de286927fd 736 main/binary-amd64/Packages.gz
  e16c31b2c989d81520ab4631898e9403f9b38984 136 main/binary-amd64/Release
 SHA256:
- c5a59666d094ad84cac5f1aac15cc5942c37540465e1f3ec02cc10d99d503142 1714 main/binary-amd64/Packages
- 87760cb597c5eb2243ef2632076b3fef1eeb38e7870d5e3408971749f0b6cbde 740 main/binary-amd64/Packages.gz
+ a5990189db53955ea9eca019787ece2a40c227eda2631d57860857bd0b7231de 1713 main/binary-amd64/Packages
+ 17a261e2c154a6b47fad846af4f4f7c8f5898e98aefff761d9dab368eaff6533 736 main/binary-amd64/Packages.gz
  a7936cbcdd07761059c419229929a4b0577de8f574cfb57a7484f65fef0e6f81 136 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJaeYbwAAoJEOdyHlYnOqnGqUMH/29L5W7hIjplIuTkvLcNXIxH
-BHCLGL6dDAlyN8GMWJTxRJGZlXNScZgY5COYKyGC4ERqkNfY3X3pprgQ0nOlwI0V
-1N45q4R3DfEJJbMxFbWKc60ID5TySN61PHbAlSc/cRcAvqJeYrA73w0vBRJ/jR4j
-/yGJeVNaqGMdjzaGKN+uKlMmSFunBm/XNgMzMbQVPYaO7BwHM/lGnbz3zlFRZNOA
-jE3nHT1VDMeow7TU2mS8jj6RdNFuvchMoPqJTQ87FXPvkteUuUOUSs3tnMfg0tG+
-RFVm2zdGEWFVKujA/yiOwgpXGJVl4lxa9oJcD+RFBVjVkhhE8I6WToQEVxZxyBI=
-=QCpv
+iQEcBAEBCAAGBQJapj/EAAoJEOdyHlYnOqnGX8EH/RCKap/fGboHlBMgn2XpbJBq
+9hc1xhSQfR1lDbqILxCpAQ2cNVMAieeNIAnQCIQmVk98KZmuZcoHMtC6myx4AU8V
+CxfbJsvwMbIAHFrs6TYnp/nPy3qxbbjelXcDKYx1nSrWP7VLJQg8+2v2isN/czUt
+OZWYXZAcPSGTUj46asg1Xe+wgfBSjN3xTJro7WDtCzScaL6XDhQF5ULlKg8Jga7/
+rw4Osz9i5FmKnqUfmDlytWt5BanjRBQJ47AQQkviImhYD3LZoR2+F+xoTMI/b59e
+KL2YeLuAnxK4SvRhI68ZYdi3BP6XwUTuUqF1Z1xYnRLugRFG1ezP41A77IwBebY=
+=bOFo
 -----END PGP SIGNATURE-----
