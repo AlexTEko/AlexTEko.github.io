@@ -1,19 +1,19 @@
 Origin: alexteko.github.io/ubuntu
 Label: alexteko.github.io/ubuntu
 Codename: ubuntu
-Date: Mon, 12 Mar 2018 09:25:36 UTC
+Date: Mon, 12 Mar 2018 09:33:55 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- de89270256668532455b75acb73968e0 1715 main/binary-amd64/Packages
- 79f72f4015ac30717bae0e3d30161ab5 742 main/binary-amd64/Packages.gz
+ 733d91d6a8ba638eb058b434c5117914 1714 main/binary-amd64/Packages
+ 7102f3b3d0aa00de9b9a41621e424a88 737 main/binary-amd64/Packages.gz
  99a6ccc99c1ce3fe8b806f1b7e135a8b 136 main/binary-amd64/Release
 SHA1:
- f62e74c6667238f139b2e7ab7aa84a812953d510 1715 main/binary-amd64/Packages
- 373ee5dc5a052cf1dbe5abcac0e6b507787aaae5 742 main/binary-amd64/Packages.gz
+ cb32635b0161e8e0e20944d9fd5a59d8a6e6d8d2 1714 main/binary-amd64/Packages
+ b598740b51616ff477c0213d095fce27d5217e2e 737 main/binary-amd64/Packages.gz
  e16c31b2c989d81520ab4631898e9403f9b38984 136 main/binary-amd64/Release
 SHA256:
- f784f6b4e2352769edc2e790a98c9044555221a1ec0fb94c1bc75b3ad8388d2a 1715 main/binary-amd64/Packages
- 0eeffb22339e71e3c67ca5455b2f23d2931937017b113c38e56090f957358d1c 742 main/binary-amd64/Packages.gz
+ 8030eb31958c2c83719495ff8fd6cc7e914099842cfbbaf98d402c38b9d5503c 1714 main/binary-amd64/Packages
+ 7edb4b2c5b79ab8a3116393fd6f4721824c9a90201ea867c214e647c10d72736 737 main/binary-amd64/Packages.gz
  a7936cbcdd07761059c419229929a4b0577de8f574cfb57a7484f65fef0e6f81 136 main/binary-amd64/Release
